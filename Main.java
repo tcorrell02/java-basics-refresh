@@ -12,6 +12,9 @@ public class Main {
 
         ArrayMethods am = new ArrayMethods();
         am.arrayMethods();
+
+        ErrorHandling eh = new ErrorHandling();
+        eh.errorHandling();
     }
 
 }
