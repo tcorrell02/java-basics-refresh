@@ -8,7 +8,10 @@ public class Main {
         //bs.simpleSyntax();
 
         StringMethods sm = new StringMethods();
-        sm.stringMethods();
+        //sm.stringMethods();
+
+        ArrayMethods am = new ArrayMethods();
+        am.arrayMethods();
     }
 
 }
