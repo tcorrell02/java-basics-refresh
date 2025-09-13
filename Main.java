@@ -7,6 +7,8 @@ public class Main {
         BasicSyntax bs = new BasicSyntax();
         //bs.simpleSyntax();
 
+        StringMethods sm = new StringMethods();
+        sm.stringMethods();
     }
 
 }
